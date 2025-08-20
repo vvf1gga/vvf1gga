@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**vvf1gga/vvf1gga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to my profile!
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Student developer from Ukraine
+- 💻 Focus: Web development (HTML, CSS, JS, PHP, Laravel)
+- 🌱 Currently learning: React & Node.js
+- 🎯 Goal: build useful apps and grow as a full-stack dev
+
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical)
+
+## 🤡 Fun zone
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+  <br/>
+  <i>"I turn coffee ☕ into code 💻"</i>
+</p>
